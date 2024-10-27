@@ -50,9 +50,9 @@ $active_record = TRUE;
 
 $ondevelop = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = '3.92.180.95';
 $db['default']['username'] = 'root';
-$db['default']['password'] = '';
+$db['default']['password'] = 'root1234';
 $db['default']['database'] = 'hms';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
